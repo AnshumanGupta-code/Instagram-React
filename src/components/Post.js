@@ -8,7 +8,7 @@ export default function Post() {
             <UserDetail>
                 <Dp src='https://pbs.twimg.com/media/EKiL1EnVUAE916K.jpg' width={'50px'}/>
                 <Username>
-                    clean_0828
+                    theanshumaangupta
                 </Username>
             </UserDetail>
             <svg aria-label="More options" class="_ab6-" color="#262626" fill="#262626" height="24" role="img" viewBox="0 0 24 24" width="24"><circle cx="12" cy="12" r="1.5"></circle><circle cx="6" cy="12" r="1.5"></circle><circle cx="18" cy="12" r="1.5"></circle></svg>
@@ -30,7 +30,7 @@ export default function Post() {
             <Info>
                 <Likes>300,547 likes</Likes>
                 <Desc>
-                    <User>clean_0828</User>
+                    <User>theanshumaangupta</User>
                     <Caption>눈은 언제쯤 오려나🎄</Caption>
                 </Desc>
                 <ViewCommnet>View all 1,010 comments</ViewCommnet>
